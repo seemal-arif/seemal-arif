@@ -7,26 +7,26 @@
 - ⚡ Fun fact: I love Cooking 😋
 
 
-Expertise 💯🙌
+🔰 Expertise 💯🙌
     
-    Technical Skills 💻📀
+    ✅ Technical Skills 💻📀
     
-          Mathematics - Especially the Linear Algebra and Calculus
-          Programming - Algorithms, Data structures and OOP
-          Blockchain  - Learning Defi Development
+          💠 Mathematics - Especially the Linear Algebra and Calculus
+          💠 Programming - Algorithms, Data structures and OOP
+          💠 Blockchain  - Learning Defi Development
     
-    Soft Skills 🗣✍
+    ✅ Soft Skills 🗣✍
           
-          Interpersonal Communication
-          Good Listening
-          Proficient English Speaker
-          Greatly in touch with on going technology trends
-          Creative 
-          Problem Solver
+          💠 Interpersonal Communication
+          💠 Good Listening
+          💠 Proficient English Speaker
+          💠 Greatly in touch with on going technology trends
+          💠 Creative 
+          💠 Problem Solver
 
 
 
 [LinkedIn]: https://www.linkedin.com/in/seemal-arif-2556a0245
 
-If you want to stay in touch or discuss any opportunity,
-Visit my [LinkedIn] 
+📞 If you want to stay in touch or discuss any opportunity,
+    Visit my [LinkedIn] 
