@@ -1,8 +1,6 @@
 ### Hi there 👋 It's Seemal Arif here
 
-- 🔭 I’m currently working on Blockchain Teaching
-- 🌱 On my way to Master Blockchain Defi Development
-- 👯 Looking for a vision driven firm to join to impart quality education
+- 🔭 I’m currently working on Blockchain learning
 
 - ⚡ Fun fact: I love Cooking 😋
 
@@ -13,7 +11,8 @@
     
           💠 Mathematics - Especially the Linear Algebra and Calculus
           💠 Programming - Algorithms, Data structures and OOP
-          💠 Blockchain  - Learning Defi Development
+          💠 Blockchain  -  Web3 frontend
+          💠 Project management
     
     ✅ Soft Skills 🗣✍
           
