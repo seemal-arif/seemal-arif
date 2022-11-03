@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Seemal Arif here
 
 - 🔭 I’m currently working on Blockchain learning
-
+- 👩‍💻I'm a Blockchain Front end developer 
 - ⚡ Fun fact: I love Cooking 😋
 
 
@@ -9,11 +9,10 @@
     
     ✅ Technical Skills 💻📀
     
-          💠 Mathematics - Especially the Linear Algebra and Calculus
-          💠 Programming - Algorithms, Data structures and OOP
-          💠 Blockchain  -  Web3 frontend
           💠 Project management
-    
+          💠 Blockchain  -  Web3 frontend
+          
+          
     ✅ Soft Skills 🗣✍
           
           💠 Interpersonal Communication
