@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Seemal Arif here
 
 - 🔭 I’m currently working on Blockchain learning
-- 👩‍💻I'm a Blockchain Front end developer 
+- 👩‍💻I'm a Blockchain and Backend developer 
 - ⚡ Fun fact: I love Cooking 😋
 
 
