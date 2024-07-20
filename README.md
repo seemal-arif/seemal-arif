@@ -10,7 +10,15 @@
     ✅ Technical Skills 💻📀
     
           💠 Project management
-          💠 Blockchain  -  Web3 frontend
+          💠 Ethereum Blockchain  
+          💠 XRP Blockchain
+          💠 Solana Blockchain
+          💠 Node.js || Express
+          💠 Python
+          💠 Django Rest Framework
+          💠 Mongo Db
+          💠 PostgreSql
+          
           
           
     ✅ Soft Skills 🗣✍
