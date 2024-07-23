@@ -29,10 +29,17 @@ Following are my major skills
 ☢ C++         ☢ Rust
 
 
-## Personal Projects 💻🔧
-Let's have a sneak-peak at what I've built in the public so far  :
+## Projects 💻🔧
+Let's have a sneak-peak at what I've built in so far  :
 
 💠 [**Project_Name**](link) - Description
+
+## Achievements
+### Developed [RentWeb3](https://github.com/rentweb3)
+A platform where people can afford expensive web3 assets.
+Aiming to be the Best Rental Protocol for Metaverse and web3 assets.
+### LinkedIn Blockchain Teacher
+Helped 10 persons to get started with learning Blockchain development.
 
 ## Call for Action
 If you are looking for a Good blockchain developer with the skills needed to build scalable web3 protocols, [Send me DM on LinkedinIn](https://www.linkedin.com/in/seemal-arif-2556a0245/)
