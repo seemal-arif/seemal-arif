@@ -35,10 +35,10 @@ Let's have a sneak-peak at what I've built in so far  :
 💠 [**Project_Name**](link) - Description
 
 ## Achievements
-### Developed [RentWeb3](https://github.com/rentweb3)
+### 1. Developed [RentWeb3](https://github.com/rentweb3)
 A platform where people can afford expensive web3 assets.
 Aiming to be the Best Rental Protocol for Metaverse and web3 assets.
-### LinkedIn Blockchain Teacher
+### 2. LinkedIn Blockchain Teacher
 Helped 10 persons to get started with learning Blockchain development.
 
 ## Call for Action
