@@ -11,7 +11,7 @@ Following are my major skills
 
 ## Area of Expertise 🛠️
 
-🔺 NFTs 🔺 DeFi 🔺 DEXs 
+🔺 NFTs 🔺 AMMs 🔺 DeFi Bots 
 
 🔺 Ethereum  🔺 Polygon 🔺 XRPL 
 
@@ -31,7 +31,7 @@ Following are my major skills
 
 ## Projects 💻🔧
 Let's have a sneak-peak at what I've built in so far  :
-
+[This section has yet to be added]
 💠 [**Project_Name**](link) - Description
 
 ## Achievements
