@@ -60,6 +60,7 @@ Aiming to be the Best Rental Protocol for Metaverse and web3 assets.
 ### 2. LinkedIn Blockchain Teacher
 Helped 10 persons to get started with learning Blockchain development.
 
-## Call for Action
-If you are looking for a Good blockchain developer with the skills needed to build scalable web3 protocols, [Send me DM on LinkedinIn](https://www.linkedin.com/in/seemal-arif-2556a0245/)
+## Get in Touch
 
+Looking for a skilled blockchain developer to bring your Web3 projects to life?  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/seemal-arif-2556a0245/) or drop me a message. Let's create something amazing together!
