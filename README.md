@@ -1,8 +1,8 @@
-Hi there, I'm Seemal - A Backend focused Blockchain Engineer having 2 years of industry experience
+Hi there, I'm Seemal - A Backend focused Blockchain Engineer having 3 years of industry experience
 
 I've Lead & Built 6+ scalable web3 protocols
 
-As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences.
+As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences and Token launches.
 Following are my major skills
 
 ### Languages
